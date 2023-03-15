@@ -5,6 +5,6 @@
 - HTML5
 
 acesse em:
-https://marcoviana1610.github.io/todolist/
+https://courageous-cuchufli-49533d.netlify.app/
 
 😃
